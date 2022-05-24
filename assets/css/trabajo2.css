@@ -1,0 +1,52 @@
+
+p {
+    font-family: 'Inconsolata', monospace;
+    font-size: 18px;
+    text-decoration: solid;
+}
+
+h1 {height: 100px;
+    font-family: 'Inconsolata', monospace;
+    font-size: 50px;
+    background-image:url(/assets/img/pavoreal.jpg);
+    padding-top: 50px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+h2 {
+    font-family: 'Inconsolata', monospace;
+    font-size: 22px;
+}
+
+.productos {
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.midsection {
+    background-color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+img {
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-color: white;
+}
+footer {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    padding-top: 50px;
+    background-image: url(/assets/img/pavoreal.jpg);
+    height: 50px;
+    margin-top: 0px;
+}
